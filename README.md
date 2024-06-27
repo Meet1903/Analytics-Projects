@@ -49,4 +49,21 @@ In a competitive lending market, identifying potential customers who are likely 
 - **Outcome:** Enable targeted marketing strategies and improve conversion rates for personal loan offers.
 
 #### Medium Post:
-[Link to Medium Post](https://meetdiwan.medium.com/whom-to-sell-the-personal-loan-7e3b5add44d9)  <!-- Replace with your actual Medium post link -->
+[Link to Medium Post](https://meetdiwan.medium.com/whom-to-sell-the-personal-loan-7e3b5add44d9)  
+
+---
+
+### Employee Attrition Insights: Leveraging IBM HR Analytics Employee Attrition & Performance Data
+
+#### Business Case:
+Employee attrition poses significant challenges for organizations, impacting financial resources, morale, and productivity. This project focuses on developing a predictive model to identify employees at risk of attrition using IBM HR Analytics Employee Attrition & Performance data. By analyzing demographic and job-related factors such as job satisfaction, working hours, overtime, hourly rate, and job level, we aim to predict attrition and enable proactive retention strategies. This model supports Human Resources in addressing issues like work culture, management practices, and work-life balance, thereby reducing turnover costs and fostering a more productive workforce.
+
+#### Project Details:
+- **Objective:** Develop a predictive model to identify employees likely to attrite.
+- **Data Used:** [IBM HR Analytics Employee Attrition & Performance dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle.
+- **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook
+- **Outcome:** Enable HR departments to implement targeted interventions such as increased pay rates and flexible work hours to mitigate attrition risks.
+
+#### Medium Post:
+[Link to Medium Post](https://meetdiwan.medium.com/employee-attrition-insights-leveraging-ibm-hr-analytics-employee-attrition-performance-data-e50122b2ecd3)
+
