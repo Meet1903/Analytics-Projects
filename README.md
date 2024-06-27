@@ -32,8 +32,21 @@ Telecommunication companies aim to increase customer satisfaction and retention 
 - **Models Trained:** Decision Tree classifier, Logistic regression, Boosted Trees classifier, Random forest classifier.
 - **Ethical Considerations:** Ensure compliance with data protection laws and ethical usage of customer data in incentive planning.
 
-#### Tags:
-Data Science, Customer Churn Prediction, Machine Learning, Telecom Analytics, Python, Data Ethics
-
 #### Medium Post:
 [Link to Medium Post](https://meetdiwan.medium.com/telecommunications-customer-churn-forecasting-and-analytical-modeling-75bdeb74b2b9)  
+
+---
+
+### Whom to Sell a Personal Loan?
+
+#### Business Case:
+In a competitive lending market, identifying potential customers who are likely to accept a personal loan offer is crucial for optimizing sales efforts and resources. This project utilizes predictive analytics on the Universal Bank dataset, which includes customer data such as educational background, income, family size, years of experience, and mortgage values. A Logistic Regression model is employed to predict whether a customer is likely to accept a personal loan offer.
+
+#### Project Details:
+- **Objective:** Predict which customers are likely to accept a personal loan offer.
+- **Data Used:** Universal Bank dataset containing customer attributes and loan acceptance labels.
+- **Model Used:** Logistic Regression.
+- **Outcome:** Enable targeted marketing strategies and improve conversion rates for personal loan offers.
+
+#### Medium Post:
+[Link to Medium Post](https://meetdiwan.medium.com/whom-to-sell-the-personal-loan-7e3b5add44d9)  <!-- Replace with your actual Medium post link -->
